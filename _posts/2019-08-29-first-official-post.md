@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  First official post
-categories: [General]
+categories: General
 ---
 
 
