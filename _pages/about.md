@@ -11,7 +11,9 @@ About Grappus goes here!!
 we are__
 a friendly bunch of thinkers, designers & techies constantly delivering good stuff. we don’t do boring. we create products that make people say damn.
 
-[Visit US] (https://grappus.com)
+[Visit US] (https://www.grappus.com)
+
+[Visit Us](https://www.grappus.com)
 
 
 <!-- [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
