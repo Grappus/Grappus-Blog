@@ -11,8 +11,6 @@ About Grappus goes here!!
 we are__
 a friendly bunch of thinkers, designers & techies constantly delivering good stuff. we don’t do boring. we create products that make people say damn.
 
-[Visit US] (https://www.grappus.com)
-
 [Visit Us](https://www.grappus.com)
 
 
